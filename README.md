@@ -12,4 +12,4 @@
 > running tools
 + Open new sessions and type command tor
 + Back to dir multiBF_ig and type bash brute.sh
-+ Have more question ? contact me : https://fb.me/n00b.me
++ Have more question ? contact me : https://wa.me/6288215393438
